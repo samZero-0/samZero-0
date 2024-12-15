@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Student Food Platform**
 
-- 🌱 I’m currently learning **Node.js**
-
 - 📫 How to reach me **samineminel271@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
