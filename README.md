@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/prQy5vd/banner.png"  />
+  <img height="250" src="https://i.ibb.co.com/r2XD82Wn/Kazi-samin-nawal.png"  />
 </div>
 
 ###
