@@ -15,6 +15,9 @@
 <h2 align="left">About me</h2>
 
 ###
+<p align="left">Passionate about full-stack development and AI, always eager to learn and build impactful solutions.</p>
+
+###
 
 <p align="left">✨Coding since 2020<br>📚 Exploring Next.js to level up my skills<br>🎯 Goal: Aspiring to master Backend Development<br>🎮 Fun fact: Gaming keeps me sharp!</p>
 
