@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co.com/WWbHpy2H" alt="Profile Banner" width="100%" />
+  <img src="https://i.ibb.co.com/mCLRFqcR/unnamed-2.jpg" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -147,11 +147,11 @@ const samin = {
 
 ## 🌟 Featured Projects
 
-> **Add your best projects here!** 
+ 
 > 
-> Use this format:
+
 > ```markdown
-> [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=YOUR-REPO-NAME&theme=tokyonight)](https://github.com/samZero-0/YOUR-REPO-NAME)
+> [![University_Student_Food_Platform_Project](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=University_Student_Food_Platform_Project&theme=tokyonight)](https://github.com/samZero-0/University_Student_Food_Platform_Project)
 > ```
 
 <br>
