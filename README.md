@@ -127,9 +127,9 @@ const samin = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samZero-0&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samZero-0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</p>
 
 <br>
 
@@ -140,7 +140,7 @@ const samin = {
 <div align="center">
 
 ```
-Replace "student-food-platform" below with your actual repository name
+University_Student_Food_Platform_Project
 ```
 
 <!-- Example:
