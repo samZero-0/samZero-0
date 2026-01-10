@@ -1,94 +1,172 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/HLRVssjF/image.png" alt="Profile Banner" />
+  <img src="https://ibb.co.com/WWbHpy2H" alt="Profile Banner" width="100%" />
 </div>
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Kazi+Samin+Nawal;Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Kazi Samin Nawal</h1>
-<h4 align="center">An undergraduate CSE student from Dhaka, Bangladesh.</h4>
-
-###
-
-<h2 align="left">💡 About Me</h2>
-
-<p align="left">
-  Passionate about Full-Stack Development and Artificial Intelligence, always eager to learn, explore, and build impactful solutions that make a difference.
+<p align="center">
+  <em>Undergraduate CSE Student | Dhaka, Bangladesh 🇧🇩</em>
 </p>
 
-###
-
-<p align="left">
-  ✨ Coding since: <b>2020</b><br>
-  📚 Currently Exploring: <b>Next.js</b> to level up my frontend skills<br>
-  🎯 Goal: <b>To master Backend Development and AI integration</b><br>
-  🎮 Fun Fact: <b>Gaming keeps me sharp!</b>
+<p align="center">
+  <a href="https://www.facebook.com/samin.nawal.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:samineminel271@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
-###
+<br>
 
-<p align="left">
-  🔭 I’m currently working on: <b>Student Food Platform</b><br><br>
-  📫 Reach me at: <b>samineminel271@gmail.com</b>
+## 🚀 About Me
+
+```typescript
+const samin = {
+    location: "Dhaka, Bangladesh",
+    education: "Undergraduate CSE Student",
+    interests: ["Full-Stack Development", "AI Engineering", "Speech Technology"],
+    currentFocus: "LLMs & STT-TTS Models Research",
+    codingSince: 2020,
+    funFact: "Gaming keeps me sharp! 🎮"
+};
+```
+
+<br>
+
+## 🔬 Current Focus
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Research-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjgiLz48cGF0aCBkPSJtMjEgMjEtNC0zLjUiLz48L3N2Zz4=" alt="Research"/>
+      <br><b>Bangla STT-TTS Research</b>
+      <br><sub>Building speech models for Bengali language</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Exploring-4ECDC4?style=for-the-badge&logo=openai&logoColor=white" alt="Exploring"/>
+      <br><b>LLMs & Speech Models</b>
+      <br><sub>Deep diving into modern AI architectures</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🎯 Goals & Vision
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Master-Full--Stack_Development-8B5CF6?style=for-the-badge" alt="Full-Stack"/>
+  <img src="https://img.shields.io/badge/Become-AI_Engineer-EC4899?style=for-the-badge" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/Build-Impactful_Solutions-10B981?style=for-the-badge" alt="Impact"/>
 </p>
 
-###
+<br>
 
-<h2 align="left">🌐 Connect With Me</h2>
+## 💻 Tech Stack
 
-<div align="left">
-  <a href="https://www.facebook.com/samin.nawal.7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-</div>
+<details open>
+<summary><b>🌐 Frontend Development</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+</details>
 
-###
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+</details>
 
-<h2 align="left">🛠️ Languages & Tools</h2>
+<details open>
+<summary><b>🤖 AI & Programming</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+</details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-</div>
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+</details>
 
-###
+<br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samZero-0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=samZero-0&theme=dracula" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samZero-0&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=samZero-0&theme=dracula&no-bg=true&no-frame=false&row=1&margin-w=15&margin-h=15" height="150" alt="GitHub Trophies" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samZero-0&theme=react-dark&area=true&hide_border=false" height="300" alt="GitHub Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samZero-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samZero-0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-###
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samZero-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=samZero-0&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+<br>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samZero-0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Student Food Platform](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=student-food-platform&theme=tokyonight&hide_border=true)](https://github.com/samZero-0/student-food-platform)
+
+</div>
+
+<br>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br>
+
+## 📫 Let's Connect!
+
+<p align="center">
+  I'm always open to interesting conversations and collaboration opportunities!<br>
+  Feel free to reach out at <b>samineminel271@gmail.com</b>
+</p>
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=samZero-0&icon=5&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
