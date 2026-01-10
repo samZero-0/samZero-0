@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/mCLRFqcR/unnamed-2.jpg" alt="Profile Banner" width="100%" />
+  <img src="https://ibb.co.com/WWbHpy2H" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -114,14 +114,26 @@ const samin = {
 
 <br>
 
-%" src="https://github-readme-stats.vercel.app/api?username=samZero-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samZero-0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samZero-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=samZero-0&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samZero-0&theme=tokyonight" alt="GitHub Profile Details"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samZero-0&theme=tokyonight" alt="Repos Per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samZero-0&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samZero-0&theme=tokyonight" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samZero-0&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=samZero-0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=samZero-0&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="Trophies"/>
+</p>
 
 <br>
 
@@ -135,19 +147,12 @@ const samin = {
 
 ## 🌟 Featured Projects
 
-> **Note:** Add your repository names here to showcase your best work!
-
-<div align="center">
-
-```
-University_Student_Food_Platform_Project
-```
-
-<!-- Example:
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=University_Student_Food_Platform_Project&theme=tokyonight&hide_border=true)](https://github.com/samZero-0/University_Student_Food_Platform_Project)
--->
-
-</div>
+> **Add your best projects here!** 
+> 
+> Use this format:
+> ```markdown
+> [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=YOUR-REPO-NAME&theme=tokyonight)](https://github.com/samZero-0/YOUR-REPO-NAME)
+> ```
 
 <br>
 
