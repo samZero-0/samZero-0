@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co.com/WWbHpy2H" alt="Profile Banner" width="100%" />
+  <img src="https://i.ibb.co.com/mCLRFqcR/unnamed-2.jpg" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -144,7 +144,7 @@ Replace "student-food-platform" below with your actual repository name
 ```
 
 <!-- Example:
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true)](https://github.com/samZero-0/University_Student_Food_Platform_Project)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=University_Student_Food_Platform_Project&theme=tokyonight&hide_border=true)](https://github.com/samZero-0/University_Student_Food_Platform_Project)
 -->
 
 </div>
