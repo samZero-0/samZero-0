@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/mCLRFqcR/unnamed-2.jpg" alt="Profile Banner" width="100%" />
+  <img src="https://ibb.co.com/WWbHpy2H" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -114,10 +114,7 @@ const samin = {
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samZero-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+%" src="https://github-readme-stats.vercel.app/api?username=samZero-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samZero-0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
@@ -131,16 +128,24 @@ const samin = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samZero-0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samZero-0&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br>
 
 ## 🌟 Featured Projects
 
+> **Note:** Add your repository names here to showcase your best work!
+
 <div align="center">
 
-[![Student Food Platform](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=student-food-platform&theme=tokyonight&hide_border=true)](https://github.com/samZero-0/student-food-platform)
+```
+Replace "student-food-platform" below with your actual repository name
+```
+
+<!-- Example:
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=samZero-0&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true)](https://github.com/samZero-0/University_Student_Food_Platform_Project)
+-->
 
 </div>
 
