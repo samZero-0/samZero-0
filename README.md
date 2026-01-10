@@ -131,8 +131,8 @@ const samin = {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=samZero-0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=samZero-0&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="Trophies"/>
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=samZero-0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-trophies.vercel.app/?username=samZero-0&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="Trophies"/>
 </p>
 
 <br>
